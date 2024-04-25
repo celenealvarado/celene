@@ -1,0 +1,15 @@
+.titulo{
+    text-align: center;    
+    color: rgb(217, 0, 192);
+}
+body{
+    background-image: url('ropa.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+.color{
+    color: rgb(255, 25, 25)
+}
+.blanco{
+    color: white;
+}
